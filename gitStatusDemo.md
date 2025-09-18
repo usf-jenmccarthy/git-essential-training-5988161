@@ -1,1 +1,1 @@
-This is a new line, specifically Linkedin Learning!
+This is a new line. This change was made in VS Code.
